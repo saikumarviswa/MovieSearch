@@ -46,6 +46,7 @@ public class MainActivity extends AppCompatActivity {
     ImageView movieSearch;
     EditText searchMovieName;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
